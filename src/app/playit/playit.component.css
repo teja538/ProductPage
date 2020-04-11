@@ -1,0 +1,38 @@
+.row{
+    padding-top:20%;
+    padding-left: 5%;
+    color:white;
+}
+
+.w5{
+    
+    padding-top:6.85%;
+}
+
+
+.black
+{
+    position: relative;
+    left:23px; 
+    bottom:100px;
+ /* margin:0 0 0 -1em; */
+}
+/* .w1{
+    padding-top:6.85%;
+    position: relative;
+    left:30px; */
+
+
+.black1{
+    position: relative;
+    right:1203px; 
+    
+    bottom:100px;
+
+}
+
+.black2{
+    position: relative;
+    left:1103px; 
+    bottom:100px;
+}
